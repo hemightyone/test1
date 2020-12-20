@@ -1,0 +1,23 @@
+/* bai 2 */
+
+.clor{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+.clor:hover{
+    background-color: blue;
+} 
+
+
+
+/* bai 4*/
+
+
+body{
+    background-color: black;
+}
+#clock{
+    color: green;
+    font-size: 50px;
+}
